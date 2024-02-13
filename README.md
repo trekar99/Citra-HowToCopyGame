@@ -16,7 +16,6 @@ _What things do you need to install the software and how to install them_
 
 I will test with the game IE Galaxy.
 
-![imagen](https://github.com/TreKar99/Citra-HowToCopyGame/assets/101529212/2111c8b0-a55d-48a5-9784-aa2565e2304b | width=100)
 <img src="[https://github.com/favicon.ico](https://github.com/TreKar99/Citra-HowToCopyGame/assets/101529212/2111c8b0-a55d-48a5-9784-aa2565e2304b)" width="100">
 
 _Steps:_
