@@ -47,11 +47,11 @@ _4. Go to the path of Citra data, and replace the directory_
 ### Mobile
 _3. In the new Mobile, install Citra and the game (.cia)_
 
-<img src="https://github.com/TreKar99/Citra-HowToCopyGame/assets/101529212/6a107618-5953-4b82-a20a-0f7672b7289a" width="600">
-<img src="https://github.com/TreKar99/Citra-HowToCopyGame/assets/101529212/37029b93-7db8-4925-a83e-2a5c99073513" width="600">
+<img src="https://github.com/TreKar99/Citra-HowToCopyGame/assets/101529212/6a107618-5953-4b82-a20a-0f7672b7289a" width="300">
+<img src="https://github.com/TreKar99/Citra-HowToCopyGame/assets/101529212/37029b93-7db8-4925-a83e-2a5c99073513" width="300">
 
 _4. Go to the path of Citra data, and replace the directory_
 
-<img src="https://github.com/TreKar99/Citra-HowToCopyGame/assets/101529212/4cc8a24f-23be-4cb3-b702-4054cb3b4716" width="600">
-<img src="https://github.com/TreKar99/Citra-HowToCopyGame/assets/101529212/e7f8fde6-231b-4e15-8063-fc33a5ca5941" width="600">
+<img src="https://github.com/TreKar99/Citra-HowToCopyGame/assets/101529212/4cc8a24f-23be-4cb3-b702-4054cb3b4716" width="300">
+<img src="https://github.com/TreKar99/Citra-HowToCopyGame/assets/101529212/e7f8fde6-231b-4e15-8063-fc33a5ca5941" width="300">
 
