@@ -16,7 +16,7 @@ _What things do you need to install the software and how to install them_
 
 I will test with the game IE Galaxy.
 
-<img src="[https://github.com/favicon.ico](https://github.com/TreKar99/Citra-HowToCopyGame/assets/101529212/2111c8b0-a55d-48a5-9784-aa2565e2304b)" width="100">
+<img src="https://github.com/TreKar99/Citra-HowToCopyGame/assets/101529212/2111c8b0-a55d-48a5-9784-aa2565e2304b" width="100">
 
 _Steps:_
 
@@ -48,4 +48,3 @@ _4. Go to the path of Citra data, and replace the directory_
 ![imagen](https://github.com/TreKar99/Citra-HowToCopyGame/assets/101529212/4cc8a24f-23be-4cb3-b702-4054cb3b4716)
 ![Sin título](https://github.com/TreKar99/Citra-HowToCopyGame/assets/101529212/e7f8fde6-231b-4e15-8063-fc33a5ca5941)
 
-_5. Enjoy the game again _
